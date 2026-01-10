@@ -1,21 +1,29 @@
-⚠ Restore configs using ./restore.sh (backs up existing configs automatically).
+# Dotfiles – Arch Linux + Hyprland
 
+Personal dotfiles for an Arch Linux Wayland setup using Hyprland.
 
-# Dotfiles – Arch + Hyprland
+## Overview
+This repository contains configuration files and scripts to reproduce my
+daily-use Linux environment.
 
-Hardware:
-- HP Laptop 14-dq0xxx
-- Intel Celeron N4120
-- Intel UHD Graphics 600
+## Stack
+- Window Manager: Hyprland (Wayland)
+- Bar: Waybar
+- Terminal: Kitty
+- Shell: Bash
+- Media Player: mpv (Wayland, VAAPI)
+- Fetch Tool: fastfetch
 
-Includes:
-- Hyprland config
-- Waybar config
-- mpv config (Wayland + VAAPI)
-- Bash config
-- Font fallback config
-
-Notes:
-- Optimized for low-end hardware
+## Features
+- Low-resource friendly configuration
 - Wayland-first setup
+- Clean and minimal UI
+- Reproducible install and restore scripts
+- Suitable for laptops and low-end hardware
 
+## Installation (Fresh Arch)
+```bash
+git clone git@github.com:srisanthvangala/Dotfiles.git
+cd Dotfiles
+chmod +x install.sh
+./install.sh
