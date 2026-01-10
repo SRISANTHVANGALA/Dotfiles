@@ -1,0 +1,42 @@
+                  -`
+                 .o+`
+                `ooo/
+               `+oooo:
+              `+oooooo:
+              -+oooooo+:
+            `/:-:++oooo+:
+           `/++++/+++++++:
+          `/++++++++++++++:
+         `/+++ooooooooooooo/`
+        ./ooosssso++osssssso+`
+       .oossssso-````/ossssss+`
+      -osssssso.      :ssssssso.
+     :osssssss/        osssso+++.
+    /ossssssss/        +ssssooo/-
+  `/ossssso+/:-        -:/+osssso+-
+ `+sso+:-`                 `.-/+oso:
+`++:.                           `-/+/
+.`                                 `/[1G[18A[41Csri@archlinux
+[41C-------------
+[41COS: Arch Linux x86_64
+[41CHost: HP Laptop 14-dq0xxx
+[41CKernel: Linux 6.18.3-arch1-1
+[41CUptime: 10 mins
+[41CPackages: 663 (pacman)
+[41CShell: bash 5.3.9
+[41CDisplay (AUOCE90): 1366x768 in 14", 60 Hz [Built-in]
+[41CWM: Hyprland 0.53.0 (Wayland)
+[41CCursor: Adwaita
+[41CTerminal: kitty 0.45.0
+[41CTerminal Font: NotoSansMono-Regular (11pt)
+[41CCPU: Intel(R) Celeron(R) N4120 (4) @ 2.60 GHz
+[41CGPU: Intel UHD Graphics 600 @ 0.70 GHz [Integrated]
+[41CMemory: 1.67 GiB / 7.57 GiB (22%)
+[41CSwap: 0 B / 4.00 GiB (0%)
+[41CDisk (/): 18.90 GiB / 56.12 GiB (34%) - ext4
+[41CLocal IP (wlan0): 192.168.29.187/24
+[41CBattery (Primary): 77% [Discharging]
+[41CLocale: en_US.UTF-8
+[41C
+[41C[40m   [41m   [42m   [43m   [44m   [45m   [46m   [47m   [m
+[41C[100m   [101m   [102m   [103m   [104m   [105m   [106m   [107m   [m

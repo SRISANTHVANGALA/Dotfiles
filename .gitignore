@@ -1,0 +1,10 @@
+# Editor junk
+*.swp
+*.swo
+*~
+
+# OS junk
+.DS_Store
+
+# Logs
+*.log

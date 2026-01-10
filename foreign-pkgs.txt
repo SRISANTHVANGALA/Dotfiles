@@ -1,0 +1,8 @@
+ani-cli
+brave-bin
+debtap
+librewolf-bin
+librewolf-bin-debug
+packettracer
+yay
+yay-debug
