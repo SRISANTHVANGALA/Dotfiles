@@ -67,13 +67,28 @@
     "format-disconnected": "󰖪",
     "on-click": "nmtui"
   },
+"battery": {
+  "bat": "BAT0",
+  "adapter": "ACAD",
 
-  "battery": {
-    "format": "{icon} {capacity}%",
-    "format-icons": ["", "", "", "", ""]
-  },
+  "format": "{icon} {capacity}%",
+  "format-charging": "{icon} {capacity}%",
+  "format-plugged": "{icon} {capacity}%",
 
-"clock": {
+  "format-icons": [
+    "󰁺","󰁻","󰁼","󰁽","󰁾",
+    "󰁿","󰂀","󰂁","󰂂","󰁹"
+  ],
+
+  "format-icons-charging": [
+    "󰂆","󰂇","󰂈","󰂉","󰂊",
+    "󰂋","󰂌","󰂍","󰂎","󰂄"
+  ]
+},
+
+
+
+  "clock": {
   "interval": 1,
   "format": "{:%H:%M}"
 },
