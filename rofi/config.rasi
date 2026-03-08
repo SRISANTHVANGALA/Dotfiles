@@ -1,0 +1,7 @@
+configuration {
+    modi: "drun";
+    show-icons: true;
+    icon-theme: "Papirus";
+}
+
+@theme "~/.config/rofi/glass.rasi"

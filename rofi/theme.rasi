@@ -1,0 +1,51 @@
+* {
+    background: rgba (20, 20, 20, 85%);
+    background-alt: #2b2b2b;
+    foreground: #ffffff;
+    selected: #3b82f6;
+
+    border-radius: 10px;
+}
+
+window {
+    width: 600px;
+    border: 1px;
+    border-color: #444444;
+    border-radius: 12px;
+}
+
+mainbox {
+    padding: 12px;
+}
+
+inputbar {
+    padding: 8px;
+    border-radius: 8px;
+    background-color: #1e1e1e;
+}
+
+entry {
+    placeholder: "Search...";
+}
+
+listview {
+    spacing: 6px;
+    scrollbar: false;
+}
+
+element {
+    padding: 8px;
+    border-radius: 8px;
+}
+
+element selected {
+    background-color: #333333;
+}
+
+element-icon {
+    size: 24px;
+}
+
+element-text {
+    vertical-align: 0.5;
+}
